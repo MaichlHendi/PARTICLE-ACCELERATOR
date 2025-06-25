@@ -1,3 +1,5 @@
 # PARTICLE-ACCELERATOR
 
-Partical accelerator built to propell a metal ball in a track when powerd by a supercapacitor for atleast 10 seconds. 
+A particle accelerator prototype built to propel a metal ball along a track, powered by a supercapacitor with a runtime of at least 10 seconds.
+
+Unfortunately, the circuit schematic is not available.
